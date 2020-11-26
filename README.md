@@ -1,2 +1,2 @@
 # projectOTP
-Send Messages using Python ans SMS servuces
+Send Messages using Python and SMS service provider.
