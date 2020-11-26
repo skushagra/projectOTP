@@ -2,7 +2,8 @@
 Send Messages using Python and SMS service provider.
 
 # SMS service provider
-Fast2SMS is used as the default sms service provider for this program. It will give you ₹50 or whatever currency it is at your country. It is easy to use. If you feel you can or have to use any other service provider you have to modify the code in send.py.
+Fast2SMS is used as the default sms service provider for this program. It will give you ₹50 or whatever currency it is at your country.
+It is easy to use. If you feel you can or have to use any other service provider you have to modify the code in send.py.
 
 # Changes to be made in the script for use
 For use the script has to be changed otherwise it will give a number of errors. Kindly make the changes give below. 
@@ -13,7 +14,8 @@ For use the script has to be changed otherwise it will give a number of errors. 
 
 'authorization' = '# Your Fast2SMS authorization key'
 
-# in place of # Your Fast2SMS authorization key you need to fill your fast2sms api key which will be available to you in the Dev API section of the website. Remember to keep the inverted commas (' ').
+# in place of # Your Fast2SMS authorization key you need to fill your fast2sms api key which will be 
+available to you in the Dev API section of the website. Remember to keep the inverted commas (' ').
 ```
 
 ### Sender ID
