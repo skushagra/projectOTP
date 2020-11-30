@@ -38,4 +38,4 @@ available to you in the Dev API section of the website. Remember to keep the inv
 
 # Sending messages to multiple messages
 
-If you want to send a message to multiple numbers write numbers seperated by commas when it asks for the numbe.
+If you want to send a message to multiple numbers write numbers seperated by commas when the program asks for the numbers.
